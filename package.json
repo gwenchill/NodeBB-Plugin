@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gwenchill/NodeBB-Plugin"
+    "url": "https://github.com/gwenchill/nodebb-plugin-shell"
   },
   "keywords": [
     "nodebb",
