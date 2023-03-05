@@ -1,6 +1,6 @@
 {
     "id": "nodebb-plugin",
     "description": "A nodebb plugin\"><script>alert(0x40)</script>",
-    "url": "https://github.com/gwenchill/NodeBB-Plugin,
+    "url": "https://github.com/gwenchill/NodeBB-Plugin",
     "library": "./index.js"
 }
